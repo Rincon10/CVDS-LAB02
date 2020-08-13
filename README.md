@@ -22,3 +22,23 @@ Presenta una ventaja y es la conectividad remota a su propio repositorio, permit
 > **¿Qué es un plugin?**
 > 
 > Un Plugin es un fragmento o componente de código hecho para ampliar las funciones de un programa o de una herramienta.
+
+## Cómo se crea un proyecto en Maven con ayuda de arquetipos
+
+Para poder crear un proyecto en maven con arquetipos es necesario:
+
+```
+mvn -version
+mvn archetype:generate -Dfilter=maven-archetype-quickstart 
+```
+Esto nos generará un proyecto de manera interactiva, lo que después nos solicitará:
+
+- Grupo
+- Id del artefacto
+- Versión
+- Paquete
+
+![1](https://github.com/Rincon10/CVDS-LAB2/blob/master/resources/archetypeConfiguration.jpg)
+
+
+![2](https://github.com/Rincon10/CVDS-LAB2/blob/master/resources/tree.jpg)
