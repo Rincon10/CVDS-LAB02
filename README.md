@@ -44,7 +44,7 @@ Si nos dirigimos a la carpeta ```Patterns``` y escribimos el comando ```tree```,
 ```
 tree
 ```
-similar a como se muestra a continuación
+similar a como se muestra a continuación \
 ![2](https://github.com/Rincon10/CVDS-LAB2/blob/master/resources/tree.jpg)
 
 ## Compilando y Ejecutando
