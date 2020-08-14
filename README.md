@@ -93,10 +93,10 @@ $ mvn -U package
       ![7](https://github.com/Rincon10/CVDS-LAB2/blob/master/resources/ejecucionParamQuerty.jpg)   \
       Este no es una entrada valida ya que la clase ```ShapeMain``` requiere un parametro de una figura establecida en la clase ```RegularShapeType```, sin embargo la clase atrapa y maneja el error.
    * ***Parámetro: pentagon***  \
-      ![8](https://github.com/Rincon10/CVDS-LAB2/blob/master/resources/ejecutandoApp2Param.jpg)   \
+      ![8](https://github.com/Rincon10/CVDS-LAB2/blob/master/resources/ejecucionParampentagon.jpg)   \
       Este no es una entrada valida ya que la clase ```ShapeMain``` requiere un parametro de una figura establecida en la clase ```RegularShapeType```, sin embargo la clase atrapa y maneja el error. 
    * ***Parámetro Hexagon***  \
-      ![9](https://github.com/Rincon10/CVDS-LAB2/blob/master/resources/ejecutandoApp2Param.jpg)   \
+      ![9](https://github.com/Rincon10/CVDS-LAB2/blob/master/resources/ejecucionParamHexagon.jpg)   \
       Este es correcto ya que la clase muestra por pantalla el numero de lados de la figura ingresada
  * Investigue para qué sirve ***"gitignore"*** y cómo se usa. Para futuras entregas, debe estar configurado
    * Sirve para decirle a Git qué archivos o directorios completos debe ignorar y no subir al repositorio de código. \
