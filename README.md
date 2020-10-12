@@ -115,7 +115,10 @@ $ mvn -U package
      Estaremos evitando que el sistema de control de versiones procese todos los archivos acabados de .DS_Store
 
 
+### __Autores__
 
+* Camilo Rincón [Rincon10](https://github.com/Rincon10)
+* Leonardo Galeano [Ersocaut](https://github.com/Ersocaut)
 
 
 
