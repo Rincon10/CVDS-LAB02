@@ -63,7 +63,7 @@ $ mvn -U package
 * Busque cómo ejecutar desde línea de comandos, un proyecto maven y verifique la salida cuando se ejecuta con la clase App.java como parámetro en "mainClass"
    * Para ejecutar el proyecto debe ejecutar el siguiente comando:
       ```
-      mvn exec.java -Dexec.mainClass="edu.eci.cvds.patterns.App"
+      mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App"
       ```
 
 * Buscar cómo enviar parámetros al plugin "exec".
